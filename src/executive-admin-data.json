@@ -27,7 +27,29 @@
         "lastName" : "Silva",
         "fullName" : "Dr. Rito Silva",
         "title" : "Vice President, Enrollment Services & Student Affairs",
-        "email" : "jacob.flournoy@tamuk.edu",
+        "email" : "rito.silva@tamuk.edu",
+        "image" : "Rito.jpg",
+        "bio" : "",
+        "oversees" : "<ul class=\"officelist\">\r\n<li><a href=\"..\/enrollment-management\/admission\/index.html\" target=\"\">Admissions<\/a><\/li>\r\n<li><a href=\"..\/recsports\/index.html\" target=\"\">Campus Recreation &amp; Fitness<\/a><\/li>\r\n<li><a href=\"..\/dean\/index.html\" target=\"\">Dean of Students<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/finaid\/index.html\" target=\"\">Financial Aid<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/scholarships\/index.html\" target=\"\">Scholarships<\/a><\/li>\r\n<li><a href=\"..\/student-affairs\/index.html\" target=\"\">Student Affairs<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/veterans\/index.html\" target=\"\">Veterans Affairs<\/a><\/li>\r\n<\/ul>"
+    },
+    {
+        "id" : "rito-silva",
+        "firstName":"Rito",
+        "lastName" : "Silva",
+        "fullName" : "Dr. Rito Silva",
+        "title" : "Vice President, Enrollment Services & Student Affairs",
+        "email" : "rito.silva@tamuk.edu",
+        "image" : "Rito.jpg",
+        "bio" : "",
+        "oversees" : "<ul class=\"officelist\">\r\n<li><a href=\"..\/enrollment-management\/admission\/index.html\" target=\"\">Admissions<\/a><\/li>\r\n<li><a href=\"..\/recsports\/index.html\" target=\"\">Campus Recreation &amp; Fitness<\/a><\/li>\r\n<li><a href=\"..\/dean\/index.html\" target=\"\">Dean of Students<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/finaid\/index.html\" target=\"\">Financial Aid<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/scholarships\/index.html\" target=\"\">Scholarships<\/a><\/li>\r\n<li><a href=\"..\/student-affairs\/index.html\" target=\"\">Student Affairs<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/veterans\/index.html\" target=\"\">Veterans Affairs<\/a><\/li>\r\n<\/ul>"
+    },
+    {
+        "id" : "rito-silva",
+        "firstName":"Rito",
+        "lastName" : "Silva",
+        "fullName" : "Dr. Rito Silva",
+        "title" : "Vice President, Enrollment Services & Student Affairs",
+        "email" : "rito.silva@tamuk.edu",
         "image" : "Rito.jpg",
         "bio" : "",
         "oversees" : "<ul class=\"officelist\">\r\n<li><a href=\"..\/enrollment-management\/admission\/index.html\" target=\"\">Admissions<\/a><\/li>\r\n<li><a href=\"..\/recsports\/index.html\" target=\"\">Campus Recreation &amp; Fitness<\/a><\/li>\r\n<li><a href=\"..\/dean\/index.html\" target=\"\">Dean of Students<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/finaid\/index.html\" target=\"\">Financial Aid<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/scholarships\/index.html\" target=\"\">Scholarships<\/a><\/li>\r\n<li><a href=\"..\/student-affairs\/index.html\" target=\"\">Student Affairs<\/a><\/li>\r\n<li><a href=\"..\/enrollment-management\/veterans\/index.html\" target=\"\">Veterans Affairs<\/a><\/li>\r\n<\/ul>"
